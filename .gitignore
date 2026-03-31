@@ -1,0 +1,36 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+Release/*
+Debug/*
+
+.pio
+cmake-build-nodemcuv2
+cmake-build-uno
+cmake-build-debug
+.idea/
+
+CMakeListsPrivate.txt
+CMakeLists.txt
+cmake-build-pico/
+cmake-*
+.vscode

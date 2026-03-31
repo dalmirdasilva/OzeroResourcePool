@@ -1,0 +1,1 @@
+- [Dalmir - author](user_dalmir.md) — Project author, embedded C developer, Ozero ecosystem
